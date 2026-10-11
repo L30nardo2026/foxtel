@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://cdn-ky.com:80/xmltv.php?username=2429335793&password=7489725823,https://i.mjh.nz/au/Sydney/epg.xml" x-tvg-url="http://cdn-ky.com:80/xmltv.php?username=2429335793&password=7489725823,https://i.mjh.nz/au/Sydney/epg.xml"
 #EXTINF:-1 tvg-id="FOXSports1.ph" tvg-name="Fox Cricket" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6550.1489223922.png" tvg-chno="101" group-title="Sport",Fox Cricket
 http://cdn-ky.com:80/2429335793/7489725823/189787.ts
 #EXTINF:-1 tvg-id="foxsports502.au" tvg-name="Fox League" tvg-logo="http://23.227.147.172:80/images/51e8ce59d129facf0d7b77461755dbb7.png" tvg-chno="102" group-title="Sport",Fox League
